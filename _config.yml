@@ -5,7 +5,7 @@ title:               'War Service Bureau'.
 tagline:             'personal correspondence from the records of the Rutgers College War Service Bureau'
 description:         'A minimal edition using Alex Gil's Ed theme.'
 url:                 'http://giannetti.github.io/warservicebureau'
-baseurl:             '/warservicebureau'
+baseurl:             ''
 
 # About/contact
 author:
