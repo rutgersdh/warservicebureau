@@ -1,22 +1,22 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               Ed.
-tagline:             'a jekyll theme for minimal editions'
-description:         'Ed is a Jekyll theme designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.'
-url:                 'http://minicomp.github.io'
-baseurl:             '/ed'
+title:               'War Service Bureau'.
+tagline:             'personal correspondence from the records of the Rutgers College War Service Bureau'
+description:         'A minimal edition using Alex Gil's Ed theme.'
+url:                 'http://warservicebureau.github.io'
+baseurl:             '/warservicebureau'
 
 # About/contact
 author:
-  name:              Alex Gil
-  url:               https://twitter.com/elotroalex
-  email:             colibri.alex@gmail.com
+  name:              Francesca Giannetti
+  url:               https://www.libraries.rutgers.edu/profile/francesca_giannetti
+  email:             fg162@rutgers.edu
 
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: 
+color-scheme: red
 
 permalink: pretty
 permalink: /:title/
