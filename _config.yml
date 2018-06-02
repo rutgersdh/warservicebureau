@@ -3,8 +3,8 @@
 # Setup
 title:               'War Service Bureau'
 tagline:             'personal correspondence from the Rutgers College War Service Bureau'
-description:         'A minimal edition created by the students of Data Mining in the Humanities.'
-url:                 'http://giannetti.github.io'
+description:         'A minimal edition created by Rutgers Future Scholars.'
+url:                 'http://rutgersdh.github.io'
 baseurl:             '/warservicebureau'
 
 # About/contact
