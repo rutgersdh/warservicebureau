@@ -1,22 +1,22 @@
 # Built with Jekyll 3.2.0
 
 # Setup
-title:               'War Service Bureau'.
-tagline:             'personal correspondence from the records of the Rutgers College War Service Bureau'
-description:         'A minimal edition using Alex Gil's Ed theme.'
-url:                 'http://giannetti.github.io/warservicebureau'
-baseurl:             ''
+title:               'War Service Bureau'
+tagline:             'personal correspondence from the Rutgers College War Service Bureau'
+description:         'A minimal edition created by the students of Data Mining in the Humanities.'
+url:                 'http://giannetti.github.io'
+baseurl:             '/warservicebureau'
 
 # About/contact
 author:
   name:              Francesca Giannetti
-  url:               https://www.libraries.rutgers.edu/profile/francesca_giannetti
+  url:               https://twitter.com/jo_frankie
   email:             fg162@rutgers.edu
 
 # Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
-color-scheme: red
+color-scheme: brown
 
 permalink: pretty
 permalink: /:title/
@@ -40,6 +40,11 @@ kramdown:
   toc_levels:     1..6
   smart_quotes:   lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
+
+# Sass
+sass:
+  style: compressed
+  sass_dir: _sass
 
 # Exclusions from the final site
 exclude:
