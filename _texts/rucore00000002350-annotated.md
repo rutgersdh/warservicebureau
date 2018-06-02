@@ -52,7 +52,8 @@ Minister.">John Brownlee Voorhees</button>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. J. B. Voorhees,</button>
 Asylum Hill Congregational Church,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'> 854 Asylum Ave. Hartford, Conn.</a> </button>
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'> 854 Asylum Ave.
+ Hartford, Conn.</a> </button>
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>: </p>
 
@@ -99,13 +100,14 @@ Minister.">John Brownlee Voorhees</button>
  AMERICAN PEOPLE
  THROUGH THE
  AMERICAN RED CROSS
- TO THOSE IN SERVICE</p><button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>U.S.A. Base Hospital No. 20 Central France.</a> </button>
+ TO THOSE IN SERVICE</p><button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>U.S.A. Base Hospital No. 20
+ Central France.</a> </button>
 <p class="right">Sept 18, 1918</p>
 
 <p class="left">My Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Silvers</button>:</p>
 
-This is just to thank you for the War Service letters. I came over last May to work under the Y.M.C.A.; but the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="gloss | A derogatory term for a German. Usually plural. | From: Boche, n. and adj. OED Online. June 2017. Oxford University Press."> <a href="http://www.oed.com.proxy.libraries.rutgers.edu/view/Entry/20870">Boche</a> </button> considered my activites too dangerous, and decided to shoot up <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Toul, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=48.675_N_5.8917_E'>the townThe Congregationalist and Advance, vol. 104, states that Voorhees was on duty with the 26th Division northwest of Toul when the hut was bombarded on June 19th. Voorhees was with C.W. Peel, of Fitchburg, MA.</a> </button> where my hut was located. They demolished the hut and incidentally sent a chunk of high explosive through my right leg. The result has been that I have spent the summer of 1918 on the flat of my back with the aforesaid leg hung up in a complicated apparatus which has kept my right toe pointing at the North star for three months.
+This is just to thank you for the War Service letters. I came over last May to work under the Y.M.C.A.; but the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="gloss | A derogatory term for a German. Usually plural. | From: Boche, n. and adj. OED Online. June 2017. Oxford University Press."> <a href="http://www.oed.com.proxy.libraries.rutgers.edu/view/Entry/20870">Boche</a> </button> considered my activites too dangerous, and decided to shoot up <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Toul, France | The Congregationalist and Advance, vol. 104, states that Voorhees was on duty with the 26th Division northwest of Toul when the hut was bombarded on June 19th. Voorhees was with C.W. Peel, of Fitchburg, MA."><a href='https://tools.wmflabs.org/geohack/geohack.php?params=48.675_N_5.8917_E'>the town</a> </button> where my hut was located. They demolished the hut and incidentally sent a chunk of high explosive through my right leg. The result has been that I have spent the summer of 1918 on the flat of my back with the aforesaid leg hung up in a complicated apparatus which has kept my right toe pointing at the North star for three months.
 
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon=" 'cheerful, confident spirit'  | From: Silvers, Earl Reed. Obituaries and Memorials, p. 54."> <a href="https://doi.org/doi:10.7282/T34M97D7">But it is not as bad as it sounds</a> </button>, and on the whole it has not been a bad summer. Uncle Sam's Army Hospitals are great institutions, and the best that medical science and surgical skill can offer is yours to command. Also it is cheap. I have saved at least $10000. in surgeon's fees by coming over to 
 ### Page: 5
@@ -136,7 +138,8 @@ LSS _files [?]_
 <p class="right">October 24, 1 9 18</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. John B. Voorhees</button>, 
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>Base Hospital #20  American E.F.</a> </button>
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="U.S.A. Base Hospital No. 20, Châtel—Guyon, France"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=45.9233_N_3.065_E'>Base Hospital #20 
+ American E.F.</a> </button>
 <p class="left">Dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
 Minister.">Dr. Voorhees</button>:</p>
 
@@ -158,7 +161,8 @@ Director, War Service Bureau.">ERS/G</button>
 <p class="right">January 13, 1919</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. J. Brownlee Voorhees</button>,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 Asylum Ave.  Hartford, Conn.</a> </button>
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="854 Asylum Ave., Hartford, CT"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=41_46_12_N_72_41_43_W'>854 Asylum Ave. 
+ Hartford, Conn.</a> </button>
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, Juliana Deyo | Born: 1880. Died: 1956.
 Spouse.">Mrs. Voorhees</button>:</p>
 
@@ -178,7 +182,8 @@ Minister.">Dr. J. Brownlee Voorhees</button>. May I express to you my deepest sy
 <p class="right">February 3, 1919</p>
 <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Berg, Irving Husted | Born: 1878. Died: 1941.
 Minister.">Rev. Irving H. Berg</button>,
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="2611 Sedgwick Ave, New York, NY"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_52_8_N_73_54_19_W'>2611 Sedgewick Avenue, New York, N.Y.</a> </button>
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="2611 Sedgwick Ave, New York, NY"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_52_8_N_73_54_19_W'>2611 Sedgewick Avenue,
+ New York, N.Y.</a> </button>
 <p class="left">Dear Mr. Berg;—</p>
 
 We are very anxious to secure for the Rutgers Alumni Quarterly and for our college records, a photograph of the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Voorhees, John Brownlee | Born: 1875. Died: 1919.
@@ -201,7 +206,8 @@ Spouse.">Mrs. Voorhees</button> at this time. Will you please advise us, if you 
 
 <p class="centered large">FORT WASHINGTON COLLEGIATE CHURCH 
 IRVING HUSTED BERG, MINISTER 
-<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 WEST 181ST STREET NEW YORK</a> </button>
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="729 West 181st Street, New York, NY 10033"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=40_51_3_N_73_56_23_W'>729 WEST 181ST STREET
+ NEW YORK</a> </button>
  TELEPHONE 
 ST. NICHOLAS 2942</p>
 <p class="right">2611 Sedgwick Ave.,</p>
