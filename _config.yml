@@ -1,0 +1,63 @@
+# Built with Jekyll 4.1.1
+
+# Setup
+title:               'War Service Bureau'
+tagline:             'personal correspondence from the Rutgers College War Service Bureau'
+description:         'A minimal documentary edition'
+url:                 'http://rutgersdh.github.io'
+baseurl:             '/warservicebureau'
+
+# About/contact
+author:
+  name:              Francesca Giannetti
+  url:               https://twitter.com/jo_frankie
+  email:             fg162@rutgers.edu
+
+# Permalinks
+
+# Color scheme. Options: red, orange, magenta, cyan, blue, brown
+color-scheme: brown
+
+permalink: pretty 
+permalink: /:title/
+
+# Set encoding to UTF-8
+encoding: utf-8
+
+# Collections for texts
+collections:
+  texts:
+    output: true
+
+# Markdown specs
+markdown: kramdown
+
+kramdown:
+  auto_ids:       true
+  footnote_nr:    1
+  entity_output:  as_char
+  footnote_backlink: "&#x21a9;&#xfe0e;"
+  toc_levels:     1..6
+  smart_quotes:   lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass
+sass:
+  style: compressed
+  sass_dir: _sass
+
+# Exclusions from the final site
+exclude:
+  - optional
+  - vendor
+  - ed..gemspec
+  - Gemfile
+  - Gemfile.lock
+
+# Theme
+theme: "ed."
+
+# Remote Theme
+# (Used only for GitHub deployments)
+# See https://help.github.com/en/articles/adding-a-jekyll-theme-to-your-github-pages-site
+remote_theme: minicomp/ed
