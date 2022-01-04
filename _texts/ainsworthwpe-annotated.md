@@ -29,6 +29,23 @@ Mss: <a href="https://doi.org/doi:10.7282/T3DF6TXM" target="_blank"><img src="..
 
 <div id="mapdiv"></div>
 
+### Biographical note
+
+William Penn Esterbrook "Pete" Ainsworth was born in Rahway, New Jersey, in 1893. He was the eldest son of George Cornell Ainsworth and Grace Esterbrook. Ainsworth and Earl Reed Silvers lived a few blocks from one another in Rahway, which is presumably how they came to know each other and their families so well. Ainsworth has the affectation of referring to Silvers's wife, Edith Terrill, as "friend"---perhaps a holdover from when they were dating and trying to keep a low profile. 
+
+Ainsworth pursued a technical Bachelor of Science course at Rutgers, where he graduated with honors in mechanical engineering in 1916. He would marry Janet Middleton Ackerman, the little sister of David Greenlie Ackerman, also of Rahway, in 1927. Ainsworth returned to civilian life as a manager at the Combustion Engineering Corporation of New York. He published [_The development of an automatic combustion control for coal burning_](https://bit.ly/3zq2UV8) in 1935.
+
+During the war, Ainsworth served as a captain in the 57th regiment of the Coast Artillery Corps (CAC). The role of the Coast Artillery was to provide personnel for all US-manned heavy artillery. Somewhat confusingly, this corps was also responsible for railway and anti-aircraft artillery, in addition to coastal defense. As he mentions in a letter to his father, Ainsworth's unit was equipped with French-made weapons, specifically the 155 Grande Puissance Filloux, transported by American Holt tractors (very few American-made weapons arrived to the front before the Armistice). After training at various locations in the US and France, including the Coast Artillery School at Fort Monroe and what sounds like a very pleasant chateau in Libourne (Bordeaux country), Ainsworth saw combat in two decisive battles that hastened the war's end: the Battle of Saint-Mihiel and the Meuse-Argonne Offensive. 
+
+The tone of Ainsworth's letters comes fairly close to the soldierly ideal of the time, which is to say it shows an "insouciant courage," a "studied gaiety under fire," and no hint of doubt as to the outcome or the judgement of the leaders who put him there (Horne 1995, p. 226). At first, during his training, Ainsworth reaches for pedestrian topics like his schedule and the food, as if to communicate that everything is normal, more than fine. The contrast with his later descriptions of scavenging for food and supplies, and reclaiming a shed from the rats and the mud behind what is presumed to be the recently broken Hindenburg Line, is striking. Ainsworth uses jocular language like "party" to describe Allied bombardments and claims to find the nighttime shelling "entertaining." Consistent with contemporaneous views, he sees barbarism written in the physiognomy of German prisoners, who have "the face of a machine." Horror occasionally seeps through his language, as when he describes trying to get his truck out of a shell hole while within range of German field guns. Ainsworth spends several months in France after the Armistice in order to help with the liquidation of supplies. Like many officers, he was granted a leave to tour parts of Western Europe before returning home to the US. He includes an interesting description of the women in post-war Paris in his letter of January 4, 1919. It is hard to tell if he accidentally wandered into a red light district or if this was just another case of "khaki fever." Ainsworth was finally discharged from duty in June 1919. 
+
+### Sources
+
+<ol class="bibliography">
+<li>John Horne, “Soldiers, Civilians and the Warfare of Attrition: Representations of Combat in France, 1914-1918,” in <i>Authority, Identity and the Social History of the Great War</i>, ed. Frans Coetzee and Marilyn Shevin-Coetzee (Providence, RI: Berghahn Books, 1995), 325–55.</li>
+<li>Susan Kingsley Kent. "Love and Death: War and Gender in Britain, 1914-1918," in <i>Authority, Identity and the Social History of the Great War</i>, ed. Frans Coetzee and Marilyn Shevin-Coetzee (Providence, RI: Berghahn Books, 1995), 153-74.</li>
+</ol>
+
 * * *
 ## William P. E. Ainsworth to Unknown, May 20, 1917
 
@@ -123,7 +140,7 @@ Director, War Service Bureau.">Reed</button>:</p>
 
  I find in making arrangements for disposing of my estate in case anything happens to me that I have a couple of rather valuable instruments and one very valuable book that I would like to leave to the College as I think they would be used and appreciated there more than anywhere else.
 
- These are: One _microscope [?]_ with several rather fine English made  lenses and French slides which I think are of biological subjects; One astronomical instrument built like a sextant very old and probably an antique but probably of some service; a book which was written in 1662 (or published at that time) about science in general and a reference in it about communication by magnetic attraction which is quite singular. 
+ These are: One _microscope [?]_ with several rather fine English made  lenses and French slides which I think are of biological subjects; One astronomical instrument built like a sextant, very old and probably an antique but probably of some service; a book which was written in 1662 (or published at that time) about science in general and a reference in it about communication by magnetic attraction which is quite singular. 
 
  If you think these things are or would be in order just drop me a quiet line. 
 
@@ -211,13 +228,13 @@ At last I am <button data-balloon-pos="up" data-balloon-length="large" data-ball
 The trip over was wonderful. The sea was very calm and the weather beautiful all the way over except for about two days when it blew up rather rough and as the seas caught us sideways the boat rocked to beat the band. It sometimes rocked so that for hours if you were sitting on deck you were looking alternatively at the sky above and the water beneath you and unless you braced your steamer chair you would slide, chair and all across the deck. Many of the men were dreadfully seasick but it did not effect me in the least, in fact I thoroughly enjoyed it.
 
 I have often heard what 
-<p class="centered small add">[3]</p> a wonderful sight land is after days at sea but never realized is until I saw it at the end of our voyage.
+<p class="centered small add">[3]</p> a wonderful sight land is after days at sea but never realized it until I saw it at the end of our voyage.
 
- Of our debarking and train trip I may say little except that the scenery was wonderful but in a different way from America. Our beautiful sections as a rule are the wild ones but the beautiful sections of France are after the cultivated ones.
+ Of our debarking and train trip I may say little except that the scenery was wonderful but in a different way from America. Our beautiful sections as a rule are the wild ones but the beautiful sections of France are often the cultivated ones.
 
 At present our company is billetted in an old French estate surrounded by vineyards. The officers live in the chateau which is a great white stone house with a tile roof (one of the originals from which the millionaires take their plans for their seaside homes)
 
-I have a nice big room with an adjoining second floor parlour. In back there is a terrace with a  palm and rose garden containing a wonderful pagoda. A brook with a deep curving hole runs *thru* [sic] a nearby meadow and affords the men an opportunity for bathing. The days are very warm and the nights cool.
+I have a nice big room with an adjoining second floor parlour. In back there is a terrace with a  palm and rose garden containing a wonderful pagoda. A brook with a deep swimming hole runs *thru* [sic] a nearby meadow and affords the men an opportunity for bathing. The days are very warm and the nights cool.
 
 What more could one ask for?
 
