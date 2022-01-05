@@ -43,7 +43,7 @@ The tone of Ainsworth's letters comes fairly close to the soldierly ideal of the
 
 <ol class="bibliography">
 <li>John Horne, “Soldiers, Civilians and the Warfare of Attrition: Representations of Combat in France, 1914-1918,” in <i>Authority, Identity and the Social History of the Great War</i>, ed. Frans Coetzee and Marilyn Shevin-Coetzee (Providence, RI: Berghahn Books, 1995), 325–55.</li>
-<li>Susan Kingsley Kent. "Love and Death: War and Gender in Britain, 1914-1918," in <i>Authority, Identity and the Social History of the Great War</i>, ed. Frans Coetzee and Marilyn Shevin-Coetzee (Providence, RI: Berghahn Books, 1995), 153-74.</li>
+<li>Susan Kingsley Kent, "Love and Death: War and Gender in Britain, 1914-1918," in <i>Authority, Identity and the Social History of the Great War</i>, ed. Frans Coetzee and Marilyn Shevin-Coetzee (Providence, RI: Berghahn Books, 1995), 153-74.</li>
 </ol>
 
 * * *
