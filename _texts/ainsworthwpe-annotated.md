@@ -178,7 +178,7 @@ Director, War Service Bureau.">Director</button><br> ERS/MVH</p>
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Reed</button></p>
 
-I received the usual form of Postal this morning advising me of the safe arrival of the ship W<sup>m</sup> sailed on and he requested me in his last letter to send you his address when I had received the postal It is 57<sup>th</sup> Artillery C.A.C. American Expeditionary Forces c/o Postmaster N.Y. Write as often as you can Earl as Peter will be pleased I know  to hear from one he thinks so much of 
+I received the usual form of Postal this morning advising me of the safe arrival of the ship W<sup>m</sup> sailed on and he requested me in his last letter to send you his address when I had received the postal It is 57<sup>th</sup> Artillery C.A.C. American Expeditionary Forces c/o Postmaster N.Y. Write as often as you can Earl as Pete will be pleased I know  to hear from one he thinks so much of 
 
 <p class="indent-1">With regards to the college <br> I am sincerely yours </p>
 <br>
