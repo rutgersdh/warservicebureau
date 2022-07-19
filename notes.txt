@@ -1,0 +1,5 @@
+# regex for cleaning up text output for jekyll
+# p elements have to start on a newline otherwise they get rendered as code
+
+Find: (?<!\n)(?<=[\W])(<p class)
+Replace: \n<p class

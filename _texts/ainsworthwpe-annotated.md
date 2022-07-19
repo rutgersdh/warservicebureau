@@ -80,7 +80,7 @@ I had to run out just then and take a look at an aeroplane passing over the barr
 
 We see all kinds of interesting sights every day — new flying machine, search lights, boats and men of war.
 
-The work continues just about the same. We plug on geometry, trig, and physics; play war games, drill on the guns, attend lectures, _snatch [?]_ half an hours swim and wait for Sunday and rest to come.
+The work continues just about the same. We plug on geometry, trig, and physics; play war games, drill on the guns, attend lectures, <i>snatch [?]</i> half an hours swim and wait for Sunday and rest to come.
 
 The hard thing is not being able to see home or any of you there. There is not the excitement of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Fort Myer, VA"><a href='https://geohack.toolforge.org/geohack.php?params=38_52_54_N_77_4_58_W'>Fort
                   Myer</a></button> here and that is what makes things go harder. The kind of work we have to me however more than compensates for the grind.
@@ -89,10 +89,10 @@ The hard thing is not being able to see home or any of you there. There is not t
 
 be with heavy field and *seige* [sic] guns. Some of us will probably be there by fall. Don't tell anyone about that however. It would scare my aunt to death. She thinks that none of us will ever leave the country.
 
-Give my best to the "gang" Tell _Dave [?]_ that I will write him soon but not to wait for me to do that little thing.
+Give my best to the "gang" Tell <i>Dave [?]</i> that I will write him soon but not to wait for me to do that little thing.
 
 <p class="indent-1">Wishing you best of luck in that which you decide to do. <br>In the bonds,</p>
-
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, William Penn Esterbrook | Born: 1893. Died: 1968.
 Captain, Coast Artillery Corps.">Pete</button></p>
 
@@ -119,14 +119,14 @@ Three of our small batteries were manned all night and the search—lights swept
 
 We finished our work on the big guns and are starting on the smaller ones which is much less exciting but necessary nevertheless.
 
-I have had a couple of good suppers at <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The Chamberlin Hotel, on the property of Fort Monroe, catered to both tourists and officers. Ainsworth would have visited the first Chamberlin (1896—1920), which burned to the ground. A second Chamberlin opened on the site in 1928. | From: Wikipedia"> <a href="https://en.wikipedia.org/wiki/The_Chamberlin">the Chamberlin</a> </button> and believe me it is some food. All you said about it was true.
+I have had a couple of good suppers at <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The Chamberlin Hotel, on the property of Fort Monroe, catered to both tourists and officers. Ainsworth would have visited the first Chamberlin (1896—1920), which burned to the ground. A second Chamberlin opened on the site in 1928. | From: Wikipedia"> <a href="https://en.wikipedia.org/wiki/The_Chamberlin">the Chamberlin</a> </button> and believe me it is <u>some</u> food. All you said about it was true.
 
 Give my best to friend and tell her that I thought of her when they brought in the big eats.
 
 <p class="indent-1">Thanking you in advance for the trouble, I am</p>
-
+<br>
 <p class="indent-1">In the bonds</p>
-
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, William Penn Esterbrook | Born: 1893. Died: 1968.
 Captain, Coast Artillery Corps.">Pete</button></p>
 
@@ -140,7 +140,7 @@ Director, War Service Bureau.">Reed</button>:</p>
 
  I find in making arrangements for disposing of my estate in case anything happens to me that I have a couple of rather valuable instruments and one very valuable book that I would like to leave to the College as I think they would be used and appreciated there more than anywhere else.
 
- These are: One _microscope [?]_ with several rather fine English made  lenses and French slides which I think are of biological subjects; One astronomical instrument built like a sextant, very old and probably an antique but probably of some service; a book which was written in 1662 (or published at that time) about science in general and a reference in it about communication by magnetic attraction which is quite singular. 
+ These are: One <i>microscope [?]</i> with several rather fine English made  lenses and French slides which I think are of biological subjects; One astronomical instrument built like a sextant, very old and probably an antique but probably of some service; a book which was written in 1662 (or published at that time) about science in general and a reference in it about communication by magnetic attraction which is quite singular. 
 
  If you think these things are or would be in order just drop me a quiet line. 
 
@@ -165,6 +165,7 @@ President, Rutgers College.">President</button> and he wishes to thank you for y
  Do not forget to come to see us. 
 
 <p class="indent-1">Cordially yours,</p>
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Director</button><br> ERS/MVH</p>
 
@@ -172,18 +173,19 @@ Director, War Service Bureau.">Director</button><br> ERS/MVH</p>
 
 ## George C. Ainsworth to Earl Reed Silvers, May 27, 1918
 
-<p class="centered large"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="45 and 47 Wall Street, New York, NY"><a href='https://geohack.toolforge.org/geohack.php?params=40_42_23_N_74_0_37_W'>45 & 47 WALL STREET</a></button>.<br>NEW YORK.<br></p>
+<p class="centered large">
+<button data-balloon-pos="up" data-balloon-length="large" data-balloon="45 and 47 Wall Street, New York, NY"><a href='https://geohack.toolforge.org/geohack.php?params=40_42_23_N_74_0_37_W'>45 & 47 WALL STREET</a></button>.<br>NEW YORK.<br></p>
 <p class="right">May 27/18</p>
 
 <p class="left">My dear <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Reed</button></p>
 
-I received the usual form of Postal this morning advising me of the safe arrival of the ship W<sup>m</sup> sailed on and he requested me in his last letter to send you his address when I had received the postal It is 57<sup>th</sup> Artillery C.A.C. American Expeditionary Forces c/o Postmaster N.Y. Write as often as you can Earl as Pete will be pleased I know  to hear from one he thinks so much of 
+I received the usual form of Postal this morning advising me of the safe arrival of the ship W<sup>m</sup> sailed on and he requested me in his last letter to send you his address when I had received the postal It is 57<sup>th</sup> Artillery C.A.C. American Expeditionary Forces c/o Postmaster N.Y. Write as often as you can Earl as Peter will be pleased I know  to hear from one he thinks so much of 
 
-<p class="indent-1">With regards to the college <br> I am sincerely yours </p>
+<p class="indent-1">With regards to the <i>college [?]</i><br> I am sincerely yours </p>
 <br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, George C. | Born: 1867. Died: 1954.
-Father to William P. E. (Pete) Ainsworth.">Geo C. Ainsworth</button></p>
+Father to William P. E. (Pete) Ainsworth."><i>Geo [?]</i> C. Ainsworth</button></p>
 
 In W<sup>m</sup>'s letter he said "Tell Reed to send any mail to my new address"
 
@@ -211,11 +213,11 @@ Captain, Coast Artillery Corps.">Pete</button>. I shall most certainly write to 
 <span class="pre-printed">SOLDIERS' MAIL NO POSTAGE NECESSARY</span><br>SOLDIERS MAIL <br> CAPT. E. W. HAMLEN, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Quartermaster Reserve Corps | From: U.S. Government
                      Printing Office. (1917). Annual Report of the Quartermaster-General to the
                      Secretary of War."> <a href="https://books.google.com/books?id=ErpLAAAAYAAJ">Q. M. R. C.</a> </button><br><span class="pre-printed">THIS SIDE FOR ADDRESS ONLY.</span><br><br>
-<p class="centered">Mr. E. R. Silvers<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Commerce St., Rahway, NJ"><a href='https://geohack.toolforge.org/geohack.php?params=40_36_20_N_74_16_55_W'>Commerce St.</a></button><br>Rahway N.J.<br></p>
-<span class="pre-printed">I HAVE ARRIVED SAFELY OVERSEAS.</span><br>Pete<br><span class="pre-printed">This card will be held until safe arrival of the boat on which I sailed.</span>
+<p class="centered">Mr. E. R. Silvers<br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Commerce St., Rahway, NJ"><a href='https://geohack.toolforge.org/geohack.php?params=40_36_20_N_74_16_55_W'>Commerce St.</a></button><br>Rahway N.J.<br></p><span class="pre-printed">I HAVE ARRIVED SAFELY OVERSEAS.</span><br>Pete<br><span class="pre-printed">This card will be held until safe arrival of the boat on which I sailed.</span>
 * * * 
 
 ## William P. E. Ainsworth to Earl Reed Silvers, June 7, 1918
+
 
 <p class="right">Somewhere in France. June 7, 1918.</p>
 
@@ -232,7 +234,7 @@ I have often heard what
 
  Of our debarking and train trip I may say little except that the scenery was wonderful but in a different way from America. Our beautiful sections as a rule are the wild ones but the beautiful sections of France are often the cultivated ones.
 
-At present our company is billetted in an old French estate surrounded by vineyards. The officers live in the chateau which is a great white stone house with a tile roof (one of the originals from which the millionaires take their plans for their seaside homes)
+At present our company is billetted in an old French estate surrounded by vineyards. The officers live in the chateau which is a great white stone house with a tile roof (one of the originals from which the millionnaires take their plans for their seaside homes)
 
 I have a nice big room with an adjoining second floor parlour. In back there is a terrace with a  palm and rose garden containing a wonderful pagoda. A brook with a deep swimming hole runs *thru* [sic] a nearby meadow and affords the men an opportunity for bathing. The days are very warm and the nights cool.
 
@@ -245,6 +247,7 @@ I will write in the near future and want you to do that little thing very often.
 Don't forget the letters from College and the Quarterly.
 
 <p class="indent-1">In the bonds.</p>
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, William Penn Esterbrook | Born: 1893. Died: 1968.
 Captain, Coast Artillery Corps.">" Pete "</button></p>
 
@@ -253,15 +256,15 @@ Captain, Coast Artillery Corps.">" Pete "</button></p>
 ## William P. E. Ainsworth to Earl Reed Silvers, August 3, 1918
 
 
-<p class="right">France. August 3, 1918.</p>
+<p class="right">France.August 3, 1918.</p>
 
 <p class="left">Dear Reed:</p>
 
  I have received several of the College Letters but as yet no real letters from yourself telling me all of the latest gossip. What is the matter? I know that it must be several weeks since I last wrote you but time goes so fast over here that it seems but yesterday. For five weeks none of us received a letter from the U.S.; when they finally arrived however they came in a bunch and we had to knock—off for about two days to read them all. 
 
  Some time ago I was in a large city near here and who should I meet in the Y.M.C.A. but <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ludlow, Charles | Born: 1895. Died: 19--.
-Seaman, Navy.">Chip Ludlow</button> all decked out in his naval uniform and looking very snappy. I made an appointment and dined with him the next day. It was awfully good to see him and get all of the home news first hand. I have not had the chance to get to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="According to Joe Costa, there were at least 8 Rutgers men stationed at Base Hospital #8, located in Savenay, France.">Base Hospital #8</button> yet but will _chap [?]_ <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Bracher, Elmer G. | Born: 1894. Died: 1923.
-Sergeant, Medical Corps.">Toady</button> a line to let  him know that I am here 
+Seaman, Navy.">Chip Ludlow</button> all decked out in his naval uniform and looking very snappy. I made an appointment and dined with him the next day. It was awfully good to see him and get all of the home news first hand. I have not had the chance to get to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="According to Joe Costa, there were at least 8 Rutgers men stationed at Base Hospital #8, located in Savenay, France.">Base Hospital #8</button> yet but will <i>chap [?]</i><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Bracher, Elmer G. | Born: 1894. Died: 1923.
+Sergeant, Medical Corps."> Toady</button> a line to let  him know that I am here 
 
  We are still located in the same place, living comfortably and working like the devil. Of my work I can say little as I have little time to spend in gadding around my letters are bound to be very uninteresting. The war news of the past few weeks has been very good as you of course know. I have talked with men who have been "in" the big drive and some of their stories and are wonderful. I wish I could tell them all. I may have a few of my own some day. I have seen many german prisoners. Nearly all of them strapping men and well set—up but with the face of a machine unlike the Americans or French. Some have long beards a foot long. 
 
@@ -273,6 +276,7 @@ Brother-in-law to Earl Reed Silvers.">Cliff</button>, Bobbie, and <button data-b
 Sister-in-law of Earl Reed Silvers.">Mildred</button>. 
 
 <p class="indent-1">Hoping to hear from you soon. <br> In the bonds</p>
+<br>
 <p class="indent-2"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Ainsworth, William Penn Esterbrook | Born: 1893. Died: 1968.
 Captain, Coast Artillery Corps.">Pete</button>.</p>
 
@@ -296,20 +300,22 @@ Rahway is going along just about as usual. <button data-balloon-pos="up" data-ba
 Son of Earl Reed Silvers.">Mike</button> was a year old yesterday and entertained the family at a dinner party, but this is the only piece of news from home that I can give you. Sometime soon I will try to write more fully. 
 
 <p class="indent-1">Yours in the bonds,</p>
+<br>
 <p class="indent-2"></p>
 
 * * * 
 
 ## William P. E. Ainsworth to Earl Reed Silvers, October 15, 1918
 
-<p class="right">France. Oct. 15, 1918.</p>
+
+<p class="right">France.Oct. 15, 1918.</p>
 
 <p class="left">Dear Reed:</p>
 
  What was my surprise to receive a couple of letters from you the last few days. I was glad to see that you had a few good days at the seashore with the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Terrill, Edith Irona | Born: 1893. Died: 1966.
 Spouse of Earl Reed Silvers.">wife</button> and son. Has "friend" taught the kid to swim yet? I have been less fortunate in not having had a swim this year. I expect however in the future sometime to more than make up for the lost time. 
 
-According to your letters 
+ According to your letters 
 <p class="centered small add">(2)</p> the changes at College must be very radical. I am sorry on account of the fraternity but otherwise the new routine must be very interesting. 
 
  Since the last writing I have been doing the usual moving around from place to place tring to keep up with a very active war. Yesterday I went *thru* [sic] what had been no—man's land a few days before but is now ours. I had lunch in an old *bocch* [sic] "pillbox" which was heated by a "bocch" <button data-balloon-pos="up" data-balloon-length="large" data-balloon="A German Feldofen, or field oven, was a small woodburning stove that would have been used to heat an area or cook on.">"Feld ofen."</button> If you could only see the villages and towns in this territory. In some cases 
@@ -322,9 +328,10 @@ According to your letters
  I suppose you have heard of my promotion to captain. Strange things do happen. 
 
  Please give my best to the Chases, congratulate <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Reeb, Llyle Burrows | Born: 1897. Died: 1990.
-Fiancé of Mildred Terrill, Earl Reed Silvers's sister-in-law.">Llyle</button>, tell Mill <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Mildred Terrill, Silvers's sister—in—law, and Llyle Burrows Reeb presumably announced their engagement. The couple would marry on October 14, 1919.">I am sore as hell at being thrown over</button>, advise "friend" to _shop [?]_ for the biggest steak when I get back and give Mike a kiss. 
+Fiancé of Mildred Terrill, Earl Reed Silvers's sister-in-law.">Llyle</button>, tell Mill <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Mildred Terrill, Silvers's sister—in—law, and Llyle Burrows Reeb presumably announced their engagement. The couple would marry on October 14, 1919.">I am sore as hell at being thrown over</button>, advise "friend" to <i>shop [?]</i> for the biggest steak when I get back and give Mike a kiss. 
 
 <p class="indent-1">Write soon <br> In the bonds Pete</p>
+<br>
 <p class="indent-2">"Pete"</p>
 
  W.Ainsworth <br> Capt 57th Art C.A.C. 
@@ -333,11 +340,12 @@ Fiancé of Mildred Terrill, Earl Reed Silvers's sister-in-law.">Llyle</button>, 
 
 ## William P. E. Ainsworth to Earl Reed Silvers, November 14, 1918
 
-<p class="right">France. Nov. 14. 1918.</p>
+
+<p class="right">France.Nov. 14. 1918.</p>
 
 <p class="left">Dear Reed:</p>
 
- I have not heard from you in a long time but presume that things are going smoothly as usual. How was the news of peace, the abdication of the Kaiser Etc received in the States. I'll bet there was some _demonstration [?]_ particularly by those about to be drafted. Please 
+ I have not heard from you in a long time but presume that things are going smoothly as usual. How was the news of peace, the abdication of the Kaiser Etc received in the States. I'll bet there was some <i>demonstration [?]</i> particularly by those about to be drafted. Please 
 <p class="centered small add">(2)</p> save the headlines of the N.Y. Evening Journal. <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Many U.S. newspapers ran headlines in all capital letters on their front pages on November 11, 1918.  | From: Allen, Erin. World War I: A Wartime Clipping Service."> <a href="https://blogs.loc.gov/loc/2016/07/world-war-i-a-wartime-clipping-service/">They must have been 14 inches high.</a> </button>
 
  We are just sitting tight at present awaiting orders. We may be sent to Germany on occupation work or home. I am hoping for the latter. 
@@ -354,6 +362,7 @@ I am up on the last front living in the priest's home in a village which the Hun
  How is Edith and "Mike." Give them both my best and expect to see me soon. 
 
 <p class="indent-1">In the bonds</p>
+<br>
 <p class="indent-2">"Pete"</p>
 
  W.Ainsworth <br> Capt. 57th Art. C.A.C. 
@@ -362,7 +371,8 @@ I am up on the last front living in the priest's home in a village which the Hun
 
 ## William P. E. Ainsworth to George C. Ainsworth, November 22, 1918
 
-<p class="right">Beaufort, France. Nov. 22, 1918.</p>
+
+<p class="right">Beaufort, France.Nov. 22, 1918.</p>
 
 <p class="left">Dear Father:</p>
 
@@ -376,7 +386,7 @@ We arrived in <button data-balloon-pos="up" data-balloon-length="large" data-bal
 
  After receiving our equipment we went to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Camp de Souge, France"><a href='https://geohack.toolforge.org/geohack.php?params=44_51_50_N_0_51_40_W'>Camp
                   de Souge</a></button> which is South of Bordeaux where we held target practice for two weeks. It was here that I made a balloon ascension and here also 
-<p class="centered small add">—2—</p> that the car I was riding in was hit by shrapnel out on the range. Some boob made a mistake of 90 degrees in deflection and nearly landed the shell in our <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The rear body of the car. | From: OED "> <a href="https://www-oed-com.proxy.libraries.rutgers.edu/view/Entry/203218?redirectedFrom=tonneau#eid">tonneau</a> </button>.
+<p class="centered small add">—2—</p> that the car I was riding in was hit by shrapnel out on the range. Some <u>boob</u> made a mistake of 90 degrees in deflection and nearly landed the shell in our <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The rear body of the car. | From: OED "> <a href="https://www-oed-com.proxy.libraries.rutgers.edu/view/Entry/203218?redirectedFrom=tonneau#eid">tonneau</a> </button>.
 
 One day we received hurry up orders to leave for the front. It took five teams to get our regiment up. We got off, after a three day ride and received orders to get into <button data-balloon-pos="up" data-balloon-length="large" data-balloon="As an officer with the 57th Coast Artillery Corps, Ainsworth would have participated in the St. Mihiel, and Meuse—Argonne Operations in support of 1st U.S. Army in France until the Armistice | From: Gilbert, Adrian. Battle of Saint-Mihiel."> <a href="https://www.britannica.com/event/Battle-of-Saint-Mihiel-1918">action immediately at the tip of St. Mehile salient</a> </button>. You never saw such a hurry in your life. It so happened that one of our battalions (the first to arrive) after working like dogs got into position only to learn that the infantry had gone clear beyond their range. They never fired a shot in that battle. Before leaving Libourne we had lost one battalion to railway artillery and had given another that was already at the front. The latter was in the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Saint—Mihiel, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_53_21_N_05_32_37_E'> St.
                   Mehile</a></button> battle and did very good work. 
@@ -413,7 +423,7 @@ That was the last big party. We followed Fritz to the place I am at present, nea
 ## William P. E. Ainsworth to Earl Reed Silvers, January 4, 1919
 
 <p class="centered large"> AMERICAN Y.M.C.A. <br> ON ACTIVE SERVICE <br> WITH THE <br> AMERICAN EXPEDITIONARY FORCE </p>
-<p class="centered small add"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Since this is an original letter on AEF stationary, the word &quot;copy&quot; appears to be an instruction from Silvers to transcribe the letter for eventual publication.">COPY</button></p>
+<p class="centered small add"><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Since this is an original letter on AEF stationary, the word &quot;copy&quot; appears to be an instruction from Silvers to transcribe the letter for eventual publication."><u>COPY</u></button></p>
 <p class="right">Jan 4 1919</p>
 
 <p class="left">Dear Reed:</p>
@@ -421,7 +431,7 @@ That was the last big party. We followed Fritz to the place I am at present, nea
 I have written no one for the last month. The reason is that I expected to be home before a letter could up to two weeks ago and since then I have been on the train most of the time <del>since</del>. To make up for lost time, let me begin a month back. 
 
 Our regiment made a long run about 125 miles from the front to the little town of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Doulevant—le—Chateau, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_22_41_N_4_55_23_E'>Doulevant</a></button> about a week after the signing of the armistice. It does not sound far but for a train of trucks, many 
-<p class="centered small add">2</p> in poor shape after months of service at the front, and tractors which were equally used up and dragging our 155's it was a long grind. I lived in the chateau of the Duke at Doulevant for about two weeks while we refitted the men and made preparations to return to the U.S. Dec. 15th we entrained near Doulevant and left for <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Brest, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_23__N_4_29__W'>Brest</a></button>, arriving there Dec. 18th at night in a cold rainstorm such as one only finds in Brittany. On the 21st all regular officers, except the Colonel, were notified that they would remain in France and to proceed to a town south of Bordeaux, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The French turned over Le Courneau (Camp Hunt) to the Americans as an artillery camp. | From: United States Army in the World War 1917-1919: Reports of the
+<p class="centered small add">2</p>in poor shape after months of service at the front, and tractors which were equally used up and dragging our 155's it was a long grind. I lived in the chateau of the Duke at Doulevant for about two weeks while we refitted the men and made preparations to return to the U.S. Dec. 15th we entrained near Doulevant and left for <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Brest, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_23__N_4_29__W'>Brest</a></button>, arriving there Dec. 18th at night in a cold rainstorm such as one only finds in Brittany. On the 21st all regular officers, except the Colonel, were notified that they would remain in France and to proceed to a town south of Bordeaux, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The French turned over Le Courneau (Camp Hunt) to the Americans as an artillery camp. | From: United States Army in the World War 1917-1919: Reports of the
                      Commander-in-Chief, Staff Sections and Services, vol. 15, p. 178"> <a href="https://history.army.mil/html/books/023/23-21/CMH_Pub_23-21.pdf">Le Courneau</a> </button> by name. This put about 12 of us out of the regiment. Four of us went immediately to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Paris, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_51_24_N_2_21_08_E'>Paris</a></button> where 
 <p class="centered small add">3</p>we spent Christmas, staying for four days afterwards as well. I enjoyed Paris more then any other city I was ever in. I visited Notre Dame, Napoleon's Tomb and the more popular shows and cafes. It was certainly necessary to watch your step in this town. The women all talk English and do everything but kidnap one. They not only stop one on the street and invite one to spend the night with them but are inclined to argue if you talk to them at all on the subject. It is nothing to be approached half a dozen times on a block. From Paris we went to Bordeaux and, the next day, to Le Courneau. 
 
@@ -431,7 +441,8 @@ Our regiment made a long run about 125 miles from the front to the little town o
  Tuesday I leave for <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Nice, France"><a href='https://geohack.toolforge.org/geohack.php?params=43_42_12_N_7_15_59_E'>Nice</a></button> on a leave of about 14 days. I am going by way of <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Lyon, France"><a href='https://geohack.toolforge.org/geohack.php?params=45_46__N_4_50__E'>Lyon</a></button>, <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Marseille, France"><a href='https://geohack.toolforge.org/geohack.php?params=43_17_47_N_5_22_12_E'>Marseille</a></button> and up along the Mediterranean. If possible I am going to go to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Italy"><a href='https://geohack.toolforge.org/geohack.php?params=43___N_12___E'>Italy</a></button> and will possibly cover the <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Pyrenees Mountains"><a href='https://geohack.toolforge.org/geohack.php?params=42_40__N_1_00__E'>
                   Pyrenees</a></button>. When I get back I may be sent to <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Germany"><a href='https://geohack.toolforge.org/geohack.php?params=51___N_9___E'>Germany</a></button> or <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Russia"><a href='https://geohack.toolforge.org/geohack.php?params=60___N_90___E'>Russia</a></button>. I don't know which at present. 
 
-Have you heard from <i>Pim [?]</i> lately? I have not received any letters at all lately and cannot 
+ Have you heard from <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Bracher, Elmer Gladstone | Born: 1894. Died: 1923.
+Sergeant, Medical Corps.">Pian</button> lately? I have not received any letters at all lately and cannot 
 <p class="centered small add">(5)</p> expect any very well with all of the changes in address. At present it is
 
  C.O.R.D.— A.P.O. #703 <br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="A replacement depot was a holding area for troops that were not yet assigned to a particular unit. This practice was discontinued after WWII because men assigned to replacement depots developed low morale and were unfamiliar with the fighting formations of the units to which they were eventually assigned. | From: Wikipedia"> <a href="https://en.wikipedia.org/wiki/Replacement_depot">C.O.R.D. — <del>Casual</del> Combat Officers Replacement Depot</a> </button>
@@ -481,7 +492,8 @@ Father to William P. E. (Pete) Ainsworth.">Dad</button>, if you see him.
 <p class="left">Capt. W. Ainsworth C.A.C<br>American Ex.F.<br></p>
 <p class="centered">Earl Reed Silvers<br>Rutgers College<br>New Brunswick, N. J. <br></p>(Officers Mail)
 <p class="pre-printed centered"> U.S. ARMY POST OFFICE <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Military Postal Express Service">M.P.E.S.</button><br> JAN 29 <br> 9 AM </p>
-<p class="pre-printed centered">PASSED AS CENSORED</p><p class="pre-printed centered">U.S. ARMY POST OFFICE M.P.E.S. Jan 21 <br> 9 AM </p>
+<p class="pre-printed centered">PASSED AS CENSORED</p>
+<p class="pre-printed centered">U.S. ARMY POST OFFICE M.P.E.S. Jan 21 <br> 9 AM </p>
 New address:
 
 Regulating Station "H" <br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="Liffol—le—Grand, France"><a href='https://geohack.toolforge.org/geohack.php?params=48_19_11_N_5_34_55_E'>A.P.O. 758</a></button>
@@ -489,16 +501,3 @@ Regulating Station "H" <br><button data-balloon-pos="up" data-balloon-length="la
 <p class="indent-2">W Ainsworth <br> Capt. C.A.C. </p>
 
 * * * 
-
-<script src="https://code.jquery.com/jquery-3.3.1.min.js"
-      integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-      crossorigin="anonymous"></script> 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js"
-      integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49"
-      crossorigin="anonymous"></script>
-<script src="https://unpkg.com/leaflet@1.3.1/dist/leaflet.js"
-      integrity="sha512-/Nsx9X4HebavoBvEBuyp3I7od5tA0UzAxs+j83KgC8PU0kgB4XiK4Lfe4y4cgBtaRJQEIFCW+oC506aPT2L1zw=="
-      crossorigin=""></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet-providers/1.1.17/leaflet-providers.js"></script>
-<script src="https://d3js.org/d3.v4.min.js"></script>
-<script src="../../assets/maps/ainsworthwpe_scripts.js"></script>
