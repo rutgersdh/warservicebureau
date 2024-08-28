@@ -12,25 +12,29 @@
     {% include sidebar.html %}
     {% endif %}
 
-
-
-    <!-- Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS collisions with our real content. -->
+    <!--
+      Wrap is the content to shift when toggling the sidebar. We wrap the content to avoid any CSS
+      collisions with our real content.
+    -->
     <div class="wrap">
-      <div class="masthead">
+      <button class="sidebar-toggle"
+          aria-label="Open navigation menu"
+          aria-expanded="false"
+          aria-controls="sidebar">
+      </button>
+      <header class="masthead">
         <div class="container">
           <h3 class="masthead-title">
             <a href="{{ site.baseurl }}/" title="Home">{{ site.title | newline_to_br }}</a>
             <br><small>{{ site.tagline }}</small>
           </h3>
         </div>
-      </div>
+      </header>
 
-      <div class="container content" id="main">
+      <main class="container content" id="main">
         {{ content }}
-      </div>
+      </main>
     </div>
-
-    <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
     <script>
 
@@ -48,24 +52,36 @@
         document.getElementById("main").innerHTML = content.replace(regex, "<mark>$1</mark>");
       }
 
-    // Toggle sidebar  
-      (function(document) {
+    // Support sidebar toggle
+    (function(document) {
         var toggle = document.querySelector('.sidebar-toggle');
         var sidebar = document.querySelector('#sidebar');
+        var sidebarNavLink = document.querySelector('.sidebar-nav-item');
         var checkbox = document.querySelector('#sidebar-checkbox');
 
-        document.addEventListener('click', function(e) {
-          var target = e.target;
+        // Toggle sidebar
+        toggle.addEventListener('click', function(e) {
+          e.preventDefault();
 
-          if(!checkbox.checked ||
-             sidebar.contains(target) ||
-             (target === checkbox || target === toggle)) return;
+          checkbox.checked = !checkbox.checked;
+          toggle.setAttribute('aria-expanded', checkbox.checked);
+          sidebar.setAttribute('aria-hidden', !checkbox.checked);
+        });
 
+        // Make sure we focus on the menu once it opens to aid tab navigation
+        sidebar.addEventListener('transitionend', function() {sidebarNavLink.focus()});
+
+        // Clicking anywhere in the sidebar should close the menu
+        sidebar.addEventListener('click', function(e) {
           checkbox.checked = false;
-        }, false);
+          toggle.setAttribute('aria-expanded', false);
+          sidebar.setAttribute('aria-hidden', true);
+        })
+
       })(document);
     </script>
-    <!-- Facebook SDK for JavaScript -->
+
+<!-- Facebook SDK for JavaScript -->
 <script>
   window.fbAsyncInit = function() {
     FB.init({
@@ -83,5 +99,7 @@
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
 </script>
+<!-- Adding subject filter buttons-->
+<script src="../../assets/js/filter.js"></script>
   </body>
 </html>

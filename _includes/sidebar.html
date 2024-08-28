@@ -1,9 +1,11 @@
-<!-- Target for toggling the sidebar `.sidebar-checkbox` is for regular
-     styles, `#sidebar-checkbox` for behavior. -->
+<!-- 
+ Target for toggling the sidebar `.sidebar-checkbox` is for regular styles, `#sidebar-checkbox` for 
+ behavior. 
+ -->
 <input type="checkbox" class="sidebar-checkbox" id="sidebar-checkbox">
 
 <!-- Toggleable sidebar -->
-<div class="sidebar" id="sidebar">
+<aside class="sidebar" id="sidebar" aria-hidden="true">
   <div class="sidebar-item">
     <p>{{ site.description }}</p>
   </div>
@@ -39,8 +41,9 @@
   </nav>
 
   <div class="sidebar-item">
-    <p>This edition uses the Jekyll theme Ed designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.</p>
+    <p>This edition uses the Jekyll theme <a href="https://minicomp.github.io/ed/">Ed</a> designed for textual editors based on minimal computing principles, and focused on legibility and flexibility.</p>
 
     <p>Distributed with an MIT license.</p>
   </div>
 </div>
+</aside>

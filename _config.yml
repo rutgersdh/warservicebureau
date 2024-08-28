@@ -1,4 +1,4 @@
-# Built with Jekyll 4.1.1
+# Built with Jekyll 4.3.3
 
 # Setup
 title:               'War Service Bureau'
@@ -10,14 +10,13 @@ baseurl:             '/warservicebureau'
 # About/contact
 author:
   name:              Francesca Giannetti
-  url:               https://twitter.com/jo_frankie
+  url:               https://bsky.app/profile/jofrankie.bsky.social
   email:             fg162@rutgers.edu
-
-# Permalinks
 
 # Color scheme. Options: red, orange, magenta, cyan, blue, brown
 color-scheme: brown
 
+# Permalinks
 permalink: pretty 
 permalink: /:title/
 
