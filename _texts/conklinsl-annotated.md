@@ -265,7 +265,6 @@ Enc.
 
 ## Elizabeth J. Lindsley to Earl Reed Silvers, October 4, 1918
 
-
 <section class="letter" data-tags="all translation obituaries bereavement missionaries">
 <p class="left">My dear Mr. <button data-balloon-pos="up" data-balloon-length="large" data-balloon="Silvers, Earl Reed | Born: 1891. Died: 1948.
 Director, War Service Bureau.">Silvers</button> — </p>
@@ -273,7 +272,7 @@ Director, War Service Bureau.">Silvers</button> — </p>
 Thank you for the letter ＆ translation from the French Priest.— 
 
 Will you send us at least one dozen copies of the Alumni Quarterly and let us know the cost? If before Oct. 12 — at <button data-balloon-pos="up" data-balloon-length="large" data-balloon="313 Summer Ave"><a href='https://geohack.toolforge.org/geohack.php?params=40_45_45_N_74_10_11_W'>313 Summer Ave Newark, NJ</a></button>. After that my address will be <button data-balloon-pos="up" data-balloon-length="large" data-balloon="The International Institute had only just been established and was a sister organization to the YWCA in San Antonio. Its mission was to serve 'women and girls of varied ethnic and cultural backgrounds.' | From: History, YWCA San
-                            Antonio"> <a href="https://www.ywcasa.org/who-we-are/history/"> International Institute </a> </button><button data-balloon-pos="up" data-balloon-length="large" data-balloon="515 North Pecos St, San Antonio, TX"><a href='https://geohack.toolforge.org/geohack.php?params=29_25_52_N_98_30_4_W'> San Antonio, Texas</a></button>
+                            Antonio"> <a href="https://ywcasa.org/history"> International Institute </a> </button><button data-balloon-pos="up" data-balloon-length="large" data-balloon="515 North Pecos St, San Antonio, TX"><a href='https://geohack.toolforge.org/geohack.php?params=29_25_52_N_98_30_4_W'> San Antonio, Texas</a></button>
 
 <p class="indent-1">Thanking you for your kindness, I am <br> Yours sincerely</p>
 <br>
