@@ -30,6 +30,8 @@ toc:
 
 Mss: <a href="https://doi.org/doi:10.7282/T3JQ13QB" target="_blank"><img src="../../assets/photo-icon.png" alt="Manuscript pages" style="display:inline-block; margin-bottom:-3px;"> https://doi.org/doi:10.7282/T3JQ13QB</a><br>
 
+![Scarlet Letter yearbook photo of Bracher](../../assets/figs/brachereg_1.png "Photo of Bracher from the 1918 Scarlet Letter yearbook")
+
 ### Biographical Note
 
 Elmer G. Bracher (RC 1918) was born in 1894 in Rahway, New Jersey, to parents George S. Bracher (1839-1902) and Evelina Johnson (1853-1923). He was the youngest of six children. As locals of Rahway, Bracher and Silvers knew each other's families well. Elmer goes by the nickname "Pi-an" or "Pian" in these letters, the origin of which remains mysterious (to us, at least). Elsewhere, classmates refer to him as "Toady" Bracher.
@@ -37,6 +39,11 @@ Elmer G. Bracher (RC 1918) was born in 1894 in Rahway, New Jersey, to parents Ge
 Bracher's desire to communicate fairly bursts from the page. It's clear that the College, his fellow football teammates (Bracher was a star halfback despite his small stature), and the Delta Phis (his and Silvers's fraternity) constitute his chosen family. He is conspicuously silent about his biological family, despite the fact that Silvers would have known them from town, and Bracher shipped out of Hoboken with his older brother Robert. Bracher's other major topics---who is getting married or engaged, and being at the rear versus the front of the war effort---reveal a preoccupation with contemporaneous attitudes towards masculinity. One senses that the war to him is a giant impediment to maturity. Not only did it cut short his athletic career, but being stationed at a base hospital in Savenay, France, hundreds of miles from the Front, meant that he couldn't as easily demonstrate  soldierly notions of nobility or strength. Nor could he become engaged. He is clearly stung by the news of Mildred Terrill's engagement. Terrill, who Bracher calls "the Voice" (a singer?), was Earl Reed Silvers's sister-in-law, and apparently Rahway's own Helen of Troy. Bracher is not the only one to write of her; in a more humorous vein, Ainsworth claims to be "sore as hell at being thrown over" for Lyle B. Reeb (RC 1919).
 
 Bracher's letters show a certain remove, or even tone-deafness, on the subject of illness and death. He refers to "nut patients" and a "nut hospital" (Base Hospital No. 214, also at Savenay) when speaking of the war's shell shock victims. Of Morris B. Jackson (RC 1919) dying of the flu, he says "[i]t certainly was too bad." And of Chapin Barr (RC 1918) and Rudolph Elmer's (RC 1917) deaths, he merely states that it was news to him that they "kick[ed] in." Bracher himself would die four years after demobilization. He crashed his Stutz touring car into a stationary truck in the early hours of Sunday morning, September 30, 1923, after watching the Rutgers-Penn Military College football game the prior evening. He is thought to have died at the scene.
+
+<figure>
+  <img src="../../assets/figs/brachereg_2.png" alt="Varsity Football Team photo of 1917">
+  <figcaption style="color:gray; font-size:0.8em; text-align: center;">Varsity Football Team photo of 1917, with Paul Robeson in frame</figcaption>
+</figure>
 
 ### Sources
 

@@ -309,7 +309,7 @@ I am leaving for Texas on the 12' but mail sent to 313 Summer Ave, Newark will r
 <p class="left"> Mrs. Elizabeth J. Conklin, <br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="313 Summer Ave"><a href='https://geohack.toolforge.org/geohack.php?params=40_45_45_N_74_10_11_W'>313 Summer Ave.</a></button>, <br>Newark,N. J.<br></p>
 <p class="left">My dear Mrs. Conklin:</p>
 
- I am sending you under separate cover Sherman's picture. I am sorry that I have not returned it sooner but it has been necessary to hold it in order to have the cut made. 
+ I am sending you under separate cover Sherman's picture. I am sorry that I have not returned it sooner but it has been necessary to hold it in order to have the cut made.
 
 <p class="indent-1">Very sincerely yours,</p>
 <br>
@@ -366,10 +366,10 @@ Would it be possible for us to have more copies? I will be so glad to pay for th
 
 <section class="letter" data-tags="all obituaries bereavement poems">
 <p class="right">January 31, 1919</p>
-<p class="left"> Mrs.Elizabeth J. Conklin <br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="135 East French Pl, San Antonio, TX"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=29_27_0_N_98_29_35_W'>135 East French Place</a></button><br>San Antonia [sic], Texas<br></p>
+<p class="left"> Mrs.Elizabeth J. Conklin <br><button data-balloon-pos="up" data-balloon-length="large" data-balloon="135 East French Pl, San Antonio, TX"><a href='https://tools.wmflabs.org/geohack/geohack.php?params=29_27_0_N_98_29_35_W'>135 East French Place</a></button><br><i>San Antonia</i> [sic], Texas<br></p>
 <p class="left">Dear Mrs. Conklin;—</p>
 
-I would gladly send you fifty copies of the October issue of the Quarterly if we had them, but calls have been so frequent and many that there are only twenty left. For college records and filing purposes, we should really have more than that number. 
+I would gladly send you fifty copies of the October issue of the Quarterly if we had them, but calls have been so frequent and many that there are only twenty left. For college records and filing purposes, we should really have more than that number.
 
 I think, however, that by dropping a line to a few of Sherman’s classmates, I can gather a few extra copies together. Under separate cover I am mailing you six.
 
