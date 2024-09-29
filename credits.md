@@ -7,21 +7,14 @@ title: Credits
 
 **Eden Biskin**, editor, is a graduate student in the Master of Information program at the Rutgers School of Communication and Information.
 
-**Gabriella Hudyka**, editor, is a senior undergraduate majoring in Psychology and minoring in History at the Rutgers School of Arts and Sciences.
+**Gabriella Hudyka**, editor, is a public history intern and senior undergraduate student majoring in Psychology and minoring in History at the Rutgers School of Arts and Sciences.
+
+**Madiha Abdul Maajid**, editor, is a public history intern and senior undergraduate student majoring in Computer Science and minoring in History at the Rutgers School of Arts and Sciences.
 
 **Barbara McIntosh**, editor, is a graduate student in the Master of Information program on the Archives and Preservation track at the Rutgers School of Communication and Information.
 
 **Alissa Renales**, editor, is a graduate student in the Master of Information program at the Rutgers School of Communication and Information.
 
+**William Tsang**, editor, is a public history intern and senior undergraduate student double majoring in History and Political Science at the Rutgers School of Arts and Sciences.
+
 Rutgers Future Scholars interns of Summer 2018 and Summer 2019 provided additional editorial assistance.
-
-
-
-
-
-
-
-
-
-
-
